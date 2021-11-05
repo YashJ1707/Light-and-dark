@@ -1,4 +1,4 @@
-package com.example.trial_app
+package com.example.light_and_dark
 
 import io.flutter.embedding.android.FlutterActivity
 

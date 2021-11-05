@@ -146,13 +146,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "trial_app",
+      "name": "light_and_dark",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-11-05T12:36:07.374589Z",
+  "generated": "2021-11-05T12:38:39.351329Z",
   "generator": "pub",
   "generatorVersion": "2.14.4"
 }

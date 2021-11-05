@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.trial_app">
+    package="com.example.light_and_dark">
    <application
-        android:label="trial_app"
+        android:label="light_and_dark"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
